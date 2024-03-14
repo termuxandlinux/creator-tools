@@ -1,0 +1,12 @@
+{
+  "name": "deb-tool",
+  "version": "1.1",
+  "arch": "all",
+  "maintainer": "alex <alex@mail.com>",
+  "description": "simple",
+  "homepage": "tool",
+  "depends": ["bash"],
+  "files": {
+    "main": "/data/data/com.termux/files/usr/bin/deb-tool"
+  }
+}
